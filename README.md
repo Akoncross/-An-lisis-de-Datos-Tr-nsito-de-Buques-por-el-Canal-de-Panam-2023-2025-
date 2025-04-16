@@ -86,5 +86,5 @@ Carlos Antonio Castillo Urrunaga
 
 ## 📁 Archivos Disponibles
 
-- `analisis_canal_panama_extendido.ipynb`: Análisis completo en Jupyter Notebook.
+- `analisis_canal_panama.ipynb`: Análisis completo en Jupyter Notebook.
 - `README.md`: Este archivo con la documentación del proyecto.
