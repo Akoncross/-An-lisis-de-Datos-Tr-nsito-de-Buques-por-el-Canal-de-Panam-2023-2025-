@@ -19,7 +19,7 @@ Este proyecto analiza el comportamiento del tránsito de buques por el Canal de 
 
 ## 🧩 Estructura del Proyecto
 
-- `analisis_canal_panama_extendido.ipynb`: Notebook principal con el análisis completo.
+- `analisis_canal_panama.ipynb`: Notebook principal con el análisis completo.
 - Visualizaciones de:
   - Tránsitos por día.
   - Promedio de buques por mes.
